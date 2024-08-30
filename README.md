@@ -9,7 +9,7 @@
 A) Install Homebrew
 B) Download the Dart SDK
 C) Update your PATH
-D) Run Dart Doctor
+D) Run Dart Doctor Ans
 
 
 2. Which command verifies the Dart installation on macOS?
@@ -109,3 +109,28 @@ A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
+
+Here are the answers to the environment setup assignment questions:
+
+Dart & Flutter:
+
+1. B) Download the Dart SDK**
+2. D) dart --version**
+3. B) Update your PATH**
+4. C) flutter run**
+
+Python Installation:
+
+1. B) Download Python from the official website**
+2. C) Add Python to PATH**
+3. A) By running python --version**
+4. C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py**
+5. C) To separate project dependencies and avoid conflicts**
+
+MySQL Installation:
+
+1. B) Download MySQL Installer from the official website**
+2.  D) Custom**
+3. A) MySQL Server, MySQL Workbench, and MySQL Shell**
+4. B) To secure your MySQL installation with a super-secret password**
+5. B) Launch MySQL Workbench and connect to your MySQL Server**
